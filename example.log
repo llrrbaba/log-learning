@@ -1,0 +1,19 @@
+INFO main org.example.MDCDemo - hahahaha
+INFO main org.example.MDCDemo - messi
+INFO main org.example.MDCDemo - messi
+INFO main org.example.MDCDemo - messi
+INFO main org.example.MDCDemo - messi
+INFO Thread-0 org.example.MDCDemo - log in thread1 start
+INFO Thread-1 org.example.MDCDemo - log in thread2 start
+INFO Thread-0 org.example.MDCDemo - log in thread1 start
+INFO Thread-1 org.example.MDCDemo - log in thread2 start
+INFO Thread-1 org.example.MDCDemo - log in thread2 start
+INFO Thread-0 org.example.MDCDemo - log in thread1 start
+INFO Thread-0 org.example.MDCDemo - log in thread1 end
+INFO Thread-1 org.example.MDCDemo - log in thread2 end
+INFO Thread-0 org.example.MDCDemo - log in thread1 start
+INFO Thread-1 org.example.MDCDemo - log in thread2 start
+INFO Thread-0 org.example.MDCDemo - log in thread1 end
+INFO Thread-1 org.example.MDCDemo - log in thread2 end
+INFO main org.example.MDCDemo - log in main method
+INFO main org.example.MDCDemo - log in nest method
